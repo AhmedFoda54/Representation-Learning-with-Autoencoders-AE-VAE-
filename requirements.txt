@@ -1,0 +1,6 @@
+tensorflow
+typing
+os
+sys
+json
+matplotlib
